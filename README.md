@@ -1,15 +1,6 @@
-# BBM 409: Machine Learning Laboratory - Project Assignment 2 🌳🧠
+# Machine Learning Laboratory - Project Assignment 2 🌳🧠
 
-Welcome to the repository for **Project Assignment 2** of the **BBM 409: Machine Learning Laboratory** course! This project was completed as part of our coursework at **Hacettepe University** during the **Spring 2025** semester. 🚀  
-
----
-
-## Group Members 👥
-
-- **Mert Çetin** - 2220356148 (GitHub: [merttcetn](https://github.com/merttcetn))  
-- **Mehmet Oğuz Kocadere** - 2210356021  
-
----
+Welcome to the repository for **Project Assignment 2** of the **Machine Learning Laboratory** course! This project was completed as part of our coursework at **Hacettepe University** during the **Spring 2025** semester. 🚀  
 
 ## Project Overview 📝
 
